@@ -7,4 +7,4 @@
 ## To debug:
 - Open a project folder (e.g. 01_TodoList) in VS Code
 - Open Program.cs
-- Debug -> Debug Active File-Base App
+- Debug -> Debug Active File-Based App
